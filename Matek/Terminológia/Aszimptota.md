@@ -1,0 +1,1 @@
+Függvényen egyenes amely csak tart egy határértékhez, de soha nem éri el

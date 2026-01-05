@@ -1,0 +1,1 @@
+Hatványkitevő [[Logaritmus]] -nál.

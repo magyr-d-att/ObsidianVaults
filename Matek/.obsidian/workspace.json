@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Feladattípusok/Algebra/Értékkészlet megtalálása.md",
+                "file": "Algebrai szabályok, trükkök/Negatív hatvány szabálya.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Értékkészlet megtalálása"
+              "title": "Negatív hatvány szabálya"
             }
           }
         ]
@@ -181,26 +181,6 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "26a0174c72e1bfc9",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "ce0b69ceb9539d24",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
           }
         ],
         "currentTab": 6
@@ -223,20 +203,31 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ce0b69ceb9539d24",
+  "active": "2ce34240a1340745",
   "lastOpenFiles": [
-    "Untitled.base",
-    "2026-01-05.md",
     "Algebrai szabályok, trükkök/Tört negatív hatványa.md",
-    "ObsidianSync",
+    "Algebrai szabályok, trükkök/Negatív hatvány szabálya.md",
+    "Algebrai szabályok, trükkök/Azonos alap hatványosztás.md",
+    "Algebrai szabályok, trükkök/Alternatív algebrai jelölések.md",
+    "Terminológia/Exponens.md",
+    "Terminológia/Logaritmus.md",
+    "Terminológia/Aszimptota.md",
+    "Terminológia/Sem páros, sem páratlan függvény.md",
+    "2026-01-05.md",
+    "Untitled.base",
+    "Képek/Pasted image 20260105215312.png",
     "Terminológia/Páratlan függvény.md",
+    "Algebrai szabályok, trükkök/Egyéb hatványszabályok.md",
+    "Algebrai szabályok, trükkök/Azonos hatványú változók (exponens).md",
+    "Algebrai szabályok, trükkök/0-dik hatvány.md",
+    "Feladattípusok/Algebra/Értékkészlet megtalálása.md",
+    "ObsidianSync",
     "ObsidianBackup",
     "obsidian",
     "Képek/Pasted image 20260105205319.png",
     "Terminológia/Páros függvény.md",
     "Feladattípusok/Algebra/Másodfokú, harmadfokú kifejezés faktorizálása.md",
     "Feladattípusok/Algebra/Függvény feladatok (basic).md",
-    "Feladattípusok/Algebra/Értékkészlet megtalálása.md",
     "Algebrai szabályok, trükkök/Szintetikus osztás (rövid).md",
     "Terminológia/Inverz funkció.md",
     "Algebrai szabályok, trükkök/Beágyazott függvények.md",
@@ -247,16 +238,7 @@
     "Terminológia/Range (Értékkészlet).md",
     "Képletek/Másodfokú megoldóképlet (Quadratic formula).md",
     "Algebrai szabályok, trükkök/Szintetikus osztás (hosszú).md",
-    "Terminológia/Perfect cube.md",
-    "Algebrai szabályok, trükkök/Azonos hatványú változók (exponens).md",
-    "Algebrai szabályok, trükkök/Azonos alap hatványszorzás.md",
-    "Feladattípusok/Algebra/Négyzetgyök alól kiemelés.md",
-    "Algebrai szabályok, trükkök/0-dik hatvány.md",
-    "Algebrai szabályok, trükkök/Alternatív algebrai jelölések.md",
-    "Terminológia/Teljes négyzet.md",
-    "Tételek/Számtan alaptétele.md",
     "Feladattípusok/Algebra",
-    "Algebrai szabályok, trükkök/Hatvány hatványozása.md",
     "Algebrai szabályok, trükkök",
     "Tételek",
     "Feladattípusok/Egyenletrendszerek",
