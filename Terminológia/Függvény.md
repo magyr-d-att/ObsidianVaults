@@ -1,0 +1,1 @@
+Egyenlet, amely minden bemenetre unique kimenetet ad: ergo nem lehet 2 x értékre az x=6.![[Pasted image 20260105143720.png]]  <- Rossz példa (vonalteszt)

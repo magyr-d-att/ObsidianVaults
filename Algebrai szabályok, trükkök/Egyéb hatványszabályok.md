@@ -1,0 +1,2 @@
+- $$ x^a * \frac{1}{x^a} = 1 $$
+- Ha N páros: $$ \sqrt[n]{x^n} = |x| $$

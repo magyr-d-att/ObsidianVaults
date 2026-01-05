@@ -1,0 +1,1 @@
+A számsík amit deklarálunk hogy ezen a testen vizsgáljuk az egyenletet. pl. Valós számok halmazán

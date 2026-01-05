@@ -1,0 +1,1 @@
+Minden érték ami valid input a képletnek. Amiket vizsgálunk.

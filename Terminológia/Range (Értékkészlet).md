@@ -1,0 +1,1 @@
+Minden érték ami valójában kijön a függvényből. Tényleges értékek minthogy: (0; 99]

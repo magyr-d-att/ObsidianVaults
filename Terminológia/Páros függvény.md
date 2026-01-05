@@ -1,0 +1,1 @@
+$$ f(x) = f(-x) $$ Feltétel igaz rá, parabola.
