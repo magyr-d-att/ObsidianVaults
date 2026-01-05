@@ -188,6 +188,16 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "ce0b69ceb9539d24",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
@@ -213,7 +223,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "95f412bd5b3aed3c",
+  "active": "ce0b69ceb9539d24",
   "lastOpenFiles": [
     "Untitled.base",
     "2026-01-05.md",
