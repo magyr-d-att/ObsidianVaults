@@ -1,0 +1,1 @@
+Cúcsa egy háromszögnek.
