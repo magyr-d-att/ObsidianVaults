@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Képletek/Ellipszis általános képlete.md",
+                "file": "Képletek/Hiberbola képlete.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ellipszis általános képlete"
+              "title": "Hiberbola képlete"
             }
           }
         ],
@@ -220,9 +220,10 @@
   },
   "active": "bea67c92c4ba73ec",
   "lastOpenFiles": [
-    "Képletek/2 pont távolsága.md",
+    "Terminológia/Aszimptota.md",
+    "Képletek/Hiberbola képlete.md",
     "Képletek/Ellipszis általános képlete.md",
-    "Képletek/Untitled.md",
+    "Képletek/2 pont távolsága.md",
     "Terminológia/Ellipszis.md",
     "Képletek/Parabola fókusza.md",
     "Feladattípusok/Parabola",
@@ -242,7 +243,6 @@
     "Algebrai szabályok, trükkök/Azonos alap hatványosztás.md",
     "Terminológia/Exponens.md",
     "Terminológia/Logaritmus.md",
-    "Terminológia/Aszimptota.md",
     "Terminológia/Sem páros, sem páratlan függvény.md",
     "2026-01-05.md",
     "Untitled.base",
