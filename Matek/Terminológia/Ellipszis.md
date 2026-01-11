@@ -1,0 +1,1 @@
+Pontok összessége egy síkon, amelyek távolságának összege 2 megadott ponttól (Fókuszok) egyenlő egy konstanssal
