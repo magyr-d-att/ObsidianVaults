@@ -1,0 +1,1 @@
+Egyenlő szárú háromszög
