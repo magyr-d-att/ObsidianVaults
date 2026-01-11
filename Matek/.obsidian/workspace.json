@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminológia/Konjugált és transzverz axis.md",
+                "file": "Terminológia/Komplementer szög.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Konjugált és transzverz axis"
+              "title": "Komplementer szög"
             }
           }
         ],
@@ -218,15 +218,18 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "1c7925582b5648d6",
+  "active": "bea67c92c4ba73ec",
   "lastOpenFiles": [
+    "Képletek/Radiánból fokba váltás.md",
+    "Terminológia/Komplementer szög.md",
+    "Képletek/Hiberbola képlete.md",
+    "Képletek/Trigonometria",
+    "Terminológia/Konjugált és transzverz axis.md",
     "Képek/Pasted image 20260111143642.png",
     "Képletek/Hiperbola aszimptota slope képlet.md",
-    "Terminológia/Konjugált és transzverz axis.md",
     "Terminológia/Hiperbola.md",
     "Képek/Pasted image 20260111143217.png",
     "Terminológia/Transzverzális tengely (Hiperbola).md",
-    "Képletek/Hiberbola képlete.md",
     "Terminológia/Aszimptota.md",
     "Képletek/Ellipszis általános képlete.md",
     "Képletek/2 pont távolsága.md",
@@ -237,7 +240,6 @@
     "Képletek/Parabola általános képlet.md",
     "Képletek/Kör egyenlet általános képlet.md",
     "Képletek/Másodfokú megoldóképlet (Quadratic formula).md",
-    "Képletek/Radiánból fokba váltás.md",
     "Terminológia/Vertex.md",
     "Feladattípusok/Basic egyenletek/Logaritmusos egyenletek.md",
     "Algebrai szabályok, trükkök/Azonos alapú logaritmus kivonása.md",
@@ -259,7 +261,6 @@
     "Algebrai szabályok, trükkök",
     "Tételek",
     "Feladattípusok/Egyenletrendszerek",
-    "Feladattípusok/Basic egyenletek",
     "Képek/Pasted image 20260103211736.png"
   ]
 }
