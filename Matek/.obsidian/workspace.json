@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Képletek/Trigonometria/Negatív trig identitások.md",
+                "file": "Képletek/Parabola fókusza.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Negatív trig identitások"
+              "title": "Parabola fókusza"
             }
           }
         ],
@@ -220,10 +220,10 @@
   },
   "active": "bea67c92c4ba73ec",
   "lastOpenFiles": [
-    "Képletek/Trigonometria/Pi-s trig indentitások.md",
-    "Képletek/Trigonometria/Negatív trig identitások.md",
-    "Terminológia/Ellipszis.md",
     "Képletek/Trigonometria/Pitagoraszi identitások.md",
+    "Képletek/Trigonometria/Negatív trig identitások.md",
+    "Képletek/Trigonometria/Pi-s trig indentitások.md",
+    "Terminológia/Ellipszis.md",
     "Képletek/Trigonometria/Secant, Cosecant, Cotangens.md",
     "Képletek/Trigonometria/Reciprokális trig identitások.md",
     "Képletek/Trigonometria/2x képletek.md",
