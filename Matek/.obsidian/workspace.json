@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Képletek/Radiánból fokba váltás.md",
+                "file": "Képletek/Trigonometria/Pitagoraszi identitások.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Radiánból fokba váltás"
+              "title": "Pitagoraszi identitások"
             }
           }
         ],
@@ -220,12 +220,13 @@
   },
   "active": "bea67c92c4ba73ec",
   "lastOpenFiles": [
+    "Képletek/Trigonometria/2x képletek.md",
+    "Képletek/Trigonometria/Pitagoraszi identitások.md",
     "Képletek/Trigonometria/Pi-s trig indentitások.md",
+    "Képletek/Trigonometria/Negatív trig identitások.md",
+    "Képletek/Radiánból fokba váltás.md",
     "Képletek/Trigonometria/Reciprokális trig identitások.md",
     "Képletek/Trigonometria/Pitagorasz tétel.md",
-    "Képletek/Trigonometria/2x képletek.md",
-    "Képletek/Trigonometria/Negatív trig identitások.md",
-    "Képletek/Trigonometria/Pitagoraszi identitások.md",
     "Képletek/Parabola fókusza.md",
     "Terminológia/Ellipszis.md",
     "Képletek/Trigonometria/Secant, Cosecant, Cotangens.md",
@@ -244,7 +245,6 @@
     "Képletek/Trigonometria/SOHCAHTOA.md",
     "Terminológia/Isosceles triangle.md",
     "Terminológia/Komplementer szög.md",
-    "Képletek/Radiánból fokba váltás.md",
     "Képletek/Trigonometria",
     "Terminológia/Konjugált és transzverz axis.md",
     "Képek/Pasted image 20260111143642.png",
