@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Képletek/Parabola fókusza.md",
+                "file": "Képletek/Radiánból fokba váltás.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Parabola fókusza"
+              "title": "Radiánból fokba váltás"
             }
           }
         ],
@@ -220,13 +220,15 @@
   },
   "active": "bea67c92c4ba73ec",
   "lastOpenFiles": [
-    "Képletek/Trigonometria/Pitagoraszi identitások.md",
-    "Képletek/Trigonometria/Negatív trig identitások.md",
     "Képletek/Trigonometria/Pi-s trig indentitások.md",
+    "Képletek/Trigonometria/Reciprokális trig identitások.md",
+    "Képletek/Trigonometria/Pitagorasz tétel.md",
+    "Képletek/Trigonometria/2x képletek.md",
+    "Képletek/Trigonometria/Negatív trig identitások.md",
+    "Képletek/Trigonometria/Pitagoraszi identitások.md",
+    "Képletek/Parabola fókusza.md",
     "Terminológia/Ellipszis.md",
     "Képletek/Trigonometria/Secant, Cosecant, Cotangens.md",
-    "Képletek/Trigonometria/Reciprokális trig identitások.md",
-    "Képletek/Trigonometria/2x képletek.md",
     "Képletek/Trigonometria/Function modifikálás.md",
     "Képletek/Parabola általános képlet.md",
     "Képletek/Másodfokú megoldóképlet (Quadratic formula).md",
@@ -241,7 +243,6 @@
     "Képek/Pasted image 20260111155830.png",
     "Képletek/Trigonometria/SOHCAHTOA.md",
     "Terminológia/Isosceles triangle.md",
-    "Képletek/Trigonometria/Pitagorasz tétel.md",
     "Terminológia/Komplementer szög.md",
     "Képletek/Radiánból fokba váltás.md",
     "Képletek/Trigonometria",
@@ -253,7 +254,6 @@
     "Terminológia/Aszimptota.md",
     "Képletek/Ellipszis általános képlete.md",
     "Képletek/2 pont távolsága.md",
-    "Képletek/Parabola fókusza.md",
     "Feladattípusok/Parabola",
     "Feladattípusok/Untitled.md",
     "Untitled.base",
