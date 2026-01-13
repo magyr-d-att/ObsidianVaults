@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Képletek/Trigonometria/Reciprokális trig identitások.md",
+                "file": "Képletek/Trigonometria/Identitások/Komplementer trig identitások.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reciprokális trig identitások"
+              "title": "Komplementer trig identitások"
             }
           }
         ],
@@ -218,14 +218,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "bea67c92c4ba73ec",
+  "active": "1c7925582b5648d6",
   "lastOpenFiles": [
-    "Képletek/Trigonometria/Pitagoraszi identitások.md",
-    "Képletek/Trigonometria/2x képletek.md",
-    "Képletek/Trigonometria/Pi-s trig indentitások.md",
-    "Képletek/Trigonometria/Negatív trig identitások.md",
+    "Képletek/Trigonometria/Identitások",
+    "Képletek/Trigonometria/Identitások/Reciprokális trig identitások.md",
+    "Képletek/Trigonometria/Identitások/Pitagoraszi identitások.md",
+    "Képletek/Trigonometria/Identitások/Komplementer trig identitások.md",
+    "Képletek/Trigonometria/Identitások/Pi-s trig indentitások.md",
+    "Képletek/Trigonometria/Identitások/Negatív trig identitások.md",
     "Képletek/Radiánból fokba váltás.md",
-    "Képletek/Trigonometria/Reciprokális trig identitások.md",
     "Képletek/Trigonometria/Pitagorasz tétel.md",
     "Képletek/Parabola fókusza.md",
     "Terminológia/Ellipszis.md",
@@ -255,7 +256,6 @@
     "Képletek/Ellipszis általános képlete.md",
     "Képletek/2 pont távolsága.md",
     "Feladattípusok/Parabola",
-    "Feladattípusok/Untitled.md",
     "Untitled.base",
     "Képek/Pasted image 20260105215312.png",
     "ObsidianSync",
