@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Képletek/Trigonometria/Identitások/Komplementer trig identitások.md",
+                "file": "Algebrai szabályok, trükkök/Harmadfokú tört.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Komplementer trig identitások"
+              "title": "Harmadfokú tört"
             }
           }
         ],
@@ -218,12 +218,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "1c7925582b5648d6",
+  "active": "bea67c92c4ba73ec",
   "lastOpenFiles": [
+    "Képletek/Trigonometria/Identitások/Komplementer trig identitások.md",
+    "Algebrai szabályok, trükkök/Harmadfokú tört.md",
     "Képletek/Trigonometria/Identitások",
     "Képletek/Trigonometria/Identitások/Reciprokális trig identitások.md",
     "Képletek/Trigonometria/Identitások/Pitagoraszi identitások.md",
-    "Képletek/Trigonometria/Identitások/Komplementer trig identitások.md",
     "Képletek/Trigonometria/Identitások/Pi-s trig indentitások.md",
     "Képletek/Trigonometria/Identitások/Negatív trig identitások.md",
     "Képletek/Radiánból fokba váltás.md",
@@ -264,7 +265,6 @@
     "Képek/Pasted image 20260105205319.png",
     "Feladattípusok/Algebra",
     "Algebrai szabályok, trükkök",
-    "Tételek",
-    "Feladattípusok/Egyenletrendszerek"
+    "Tételek"
   ]
 }
