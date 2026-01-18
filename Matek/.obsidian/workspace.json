@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebrai szabályok, trükkök/Teljes négyzetté alakítás.md",
+                "file": "Képletek/Gráf (slope) meredekség képlete.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Teljes négyzetté alakítás"
+              "title": "Gráf (slope) meredekség képlete"
             }
           }
         ],
@@ -220,11 +220,18 @@
   },
   "active": "bea67c92c4ba73ec",
   "lastOpenFiles": [
-    "Terminológia/Teljes négyzet.md",
+    "Feladattípusok/Basic egyenletek/Egyenlet Gráf 2 Pontjából.md",
+    "Feladattípusok/Basic egyenletek/Abszolútértékes egyenletek.md",
+    "Képletek/Gráf (slope) meredekség képlete.md",
+    "Képletek/Parabola általános képlet.md",
+    "Képletek/Másodfokú megoldóképlet (Quadratic formula).md",
+    "Képletek/Kör egyenlet általános képlet.md",
+    "Képletek/Hiperbola aszimptota slope képlet.md",
+    "Algebrai szabályok, trükkök/Másodfokú kifejezés gyökei u,v val.md",
     "Algebrai szabályok, trükkök/Teljes négyzetté alakítás.md",
+    "Terminológia/Teljes négyzet.md",
     "Algebrai szabályok, trükkök/Gyökfelbontás.md",
     "Algebrai szabályok, trükkök/Törtek szorzása.md",
-    "Algebrai szabályok, trükkök/Másodfokú kifejezés gyökei u,v val.md",
     "Algebrai szabályok, trükkök/Négyzetek különbsége.md",
     "Algebrai szabályok, trükkök/x a harmadikon + y a harmadikon.md",
     "Algebrai szabályok, trükkök/Egyéb hatványszabályok.md",
@@ -240,19 +247,12 @@
     "Képletek/Parabola fókusza.md",
     "Terminológia/Ellipszis.md",
     "Képletek/Trigonometria/Secant, Cosecant, Cotangens.md",
-    "Képletek/Trigonometria/Function modifikálás.md",
-    "Képletek/Parabola általános képlet.md",
-    "Képletek/Másodfokú megoldóképlet (Quadratic formula).md",
-    "Képletek/Hiberbola képlete.md",
-    "Képletek/Hiperbola aszimptota slope képlet.md",
-    "Képletek/Kör egyenlet általános képlet.md",
     "Képek/Pasted image 20260111161404.png",
     "Képek/Pasted image 20260111161150.png",
     "Képek/Pasted image 20260111160721.png",
     "Képek/Pasted image 20260111160526.png",
     "Képek/Pasted image 20260111160341.png",
     "Képek/Pasted image 20260111155830.png",
-    "Képletek/Trigonometria/SOHCAHTOA.md",
     "Képletek/Trigonometria",
     "Képek/Pasted image 20260111143642.png",
     "Képek/Pasted image 20260111143217.png",
