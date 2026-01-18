@@ -1,0 +1,1 @@
+$$ \frac{a}{b} \times \frac{c}{d} = \frac{ac}{bd} $$

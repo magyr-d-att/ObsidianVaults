@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebrai szabályok, trükkök/Másodfokú kifejezés gyökei u,v val.md",
+                "file": "Algebrai szabályok, trükkök/Törtek szorzása.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Másodfokú kifejezés gyökei u,v val"
+              "title": "Törtek szorzása"
             }
           }
         ],
@@ -220,8 +220,9 @@
   },
   "active": "bea67c92c4ba73ec",
   "lastOpenFiles": [
-    "Algebrai szabályok, trükkök/Négyzetek különbsége.md",
     "Algebrai szabályok, trükkök/Másodfokú kifejezés gyökei u,v val.md",
+    "Algebrai szabályok, trükkök/Törtek szorzása.md",
+    "Algebrai szabályok, trükkök/Négyzetek különbsége.md",
     "Algebrai szabályok, trükkök/x a harmadikon + y a harmadikon.md",
     "Algebrai szabályok, trükkök/Egyéb hatványszabályok.md",
     "Algebrai szabályok, trükkök/Harmadfokú tört.md",
@@ -254,7 +255,6 @@
     "Képletek/Trigonometria",
     "Terminológia/Konjugált és transzverz axis.md",
     "Képek/Pasted image 20260111143642.png",
-    "Terminológia/Hiperbola.md",
     "Képek/Pasted image 20260111143217.png",
     "Feladattípusok/Parabola",
     "Untitled.base",
