@@ -25,10 +25,14 @@
             "id": "bea67c92c4ba73ec",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Terminológia/f kör g jelölés.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "f kör g jelölés"
             }
           }
         ],
@@ -216,6 +220,17 @@
   },
   "active": "bea67c92c4ba73ec",
   "lastOpenFiles": [
+    "Feladattípusok/Calculus/f o g képletek.md",
+    "Terminológia/f kör g jelölés.md",
+    "Terminológia/Domain (értelmezési tartomány).md",
+    "Feladattípusok/Calculus",
+    "Feladattípusok/Untitled.md",
+    "Képletek/Kör egyenlet általános képlet.md",
+    "Algebrai szabályok, trükkök/x a harmadikon + y a harmadikon.md",
+    "Algebrai szabályok, trükkök/Hatvány b+c.md",
+    "Algebrai szabályok, trükkök/Azonos alap hatványszorzás.md",
+    "Algebrai szabályok, trükkök/Azonos alap hatványosztás.md",
+    "Algebrai szabályok, trükkök/Gyökfelbontás.md",
     "Feladattípusok/Koordinátarendszerek és gráfok/Egyenlet Gráf 2 Pontjából.md",
     "Feladattípusok/Koordinátarendszerek és gráfok/Vonal hosszának megtalálása.md",
     "Feladattípusok/Koordinátarendszerek és gráfok/Slope megtalálása.md",
@@ -226,25 +241,15 @@
     "Feladattípusok/Basic egyenletek/Abszolútértékes egyenletek.md",
     "Képletek/Parabola általános képlet.md",
     "Képletek/Másodfokú megoldóképlet (Quadratic formula).md",
-    "Képletek/Kör egyenlet általános képlet.md",
     "Képletek/Hiperbola aszimptota slope képlet.md",
     "Algebrai szabályok, trükkök/Másodfokú kifejezés gyökei u,v val.md",
     "Algebrai szabályok, trükkök/Teljes négyzetté alakítás.md",
     "Terminológia/Teljes négyzet.md",
-    "Algebrai szabályok, trükkök/Gyökfelbontás.md",
     "Algebrai szabályok, trükkök/Törtek szorzása.md",
     "Algebrai szabályok, trükkök/Négyzetek különbsége.md",
-    "Algebrai szabályok, trükkök/x a harmadikon + y a harmadikon.md",
     "Algebrai szabályok, trükkök/Egyéb hatványszabályok.md",
     "Algebrai szabályok, trükkök/Harmadfokú tört.md",
-    "Képletek/Trigonometria/Identitások/Komplementer trig identitások.md",
     "Képletek/Trigonometria/Identitások",
-    "Képletek/Trigonometria/Identitások/Reciprokális trig identitások.md",
-    "Képletek/Trigonometria/Identitások/Pitagoraszi identitások.md",
-    "Képletek/Trigonometria/Identitások/Pi-s trig indentitások.md",
-    "Képletek/Trigonometria/Identitások/Negatív trig identitások.md",
-    "Képletek/Radiánból fokba váltás.md",
-    "Képletek/Trigonometria/Pitagorasz tétel.md",
     "Képek/Pasted image 20260111161404.png",
     "Képek/Pasted image 20260111161150.png",
     "Képek/Pasted image 20260111160721.png",
@@ -260,7 +265,6 @@
     "ObsidianSync",
     "ObsidianBackup",
     "obsidian",
-    "Feladattípusok/Algebra",
-    "Algebrai szabályok, trükkök"
+    "Feladattípusok/Algebra"
   ]
 }
