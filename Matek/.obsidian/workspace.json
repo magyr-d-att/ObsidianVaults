@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Azonos alap hatványosztás"
             }
+          },
+          {
+            "id": "e238a44475c5a8e0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,7 +196,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -203,7 +216,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "2ce34240a1340745",
+  "active": "95f412bd5b3aed3c",
   "lastOpenFiles": [
     "Algebrai szabályok, trükkök/Hatvány b+c.md",
     "Algebrai szabályok, trükkök/Azonos alapú logaritmus összeadása.md",
