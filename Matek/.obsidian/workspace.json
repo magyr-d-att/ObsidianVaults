@@ -37,12 +37,14 @@
             "id": "c1fee989093d374b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "Algebrai szabályok, trükkök/Harmadfokú tört.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "lucide-file",
+              "title": "Harmadfokú tört"
             }
           }
         ],
@@ -228,11 +230,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "95f412bd5b3aed3c",
+  "active": "c1fee989093d374b",
   "lastOpenFiles": [
+    "Algebrai szabályok, trükkök/Gyökfelbontás.md",
+    "Algebrai szabályok, trükkök/Egyéb hatványszabályok.md",
+    "Algebrai szabályok, trükkök/Beágyazott függvények.md",
+    "Algebrai szabályok, trükkök/Azonos hatványú változók (exponens).md",
+    "Algebrai szabályok, trükkök/Azonos alapú logaritmus kivonása.md",
+    "Algebrai szabályok, trükkök/Azonos alap hatványszorzás.md",
+    "Algebrai szabályok, trükkök/Azonos alap hatványosztás.md",
     "Algebrai szabályok, trükkök/Hatvány b+c.md",
     "Algebrai szabályok, trükkök/Azonos alapú logaritmus összeadása.md",
-    "Algebrai szabályok, trükkök/Azonos alap hatványosztás.md",
     "Algebrai szabályok, trükkök/Másodfokú kifejezés gyökei u,v val.md",
     "Képletek/Trigonometria/Identitások/Algebrai identitások.md",
     "Képletek/Trigonometria/Identitások/Reciprokális trig identitások.md",
@@ -251,12 +259,6 @@
     "Feladattípusok/Untitled.md",
     "Képletek/Kör egyenlet általános képlet.md",
     "Algebrai szabályok, trükkök/x a harmadikon + y a harmadikon.md",
-    "Algebrai szabályok, trükkök/Azonos alap hatványszorzás.md",
-    "Algebrai szabályok, trükkök/Gyökfelbontás.md",
-    "Feladattípusok/Koordinátarendszerek és gráfok/Egyenlet Gráf 2 Pontjából.md",
-    "Feladattípusok/Koordinátarendszerek és gráfok/Vonal hosszának megtalálása.md",
-    "Feladattípusok/Koordinátarendszerek és gráfok/Slope megtalálása.md",
-    "Feladattípusok/Koordinátarendszerek és gráfok/Pontok középpontjának megtalálása.md",
     "Képek/Pasted image 20260118134935.png",
     "Feladattípusok/Koordinátarendszerek és gráfok",
     "Képletek/Trigonometria/Identitások",
