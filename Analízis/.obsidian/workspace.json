@@ -1,0 +1,279 @@
+{
+  "main": {
+    "id": "715d75bfd2c39037",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f43e8a5130b5fb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a5aaf0f8d2e2df1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "1db74c898865c513",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Értelmezési tartomány kitalállása.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Értelmezési tartomány kitalállása"
+            }
+          },
+          {
+            "id": "6f9ff5eb228589fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rendőr elv.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rendőr elv"
+            }
+          },
+          {
+            "id": "6a6c72d18f1fdb07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gyakori derivált formák.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gyakori derivált formák"
+            }
+          },
+          {
+            "id": "804b43b09700fa40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deriválás műveletek eredményei.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Deriválás műveletek eredményei"
+            }
+          },
+          {
+            "id": "7c0133c19dec5d1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gyakori derivált formák.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gyakori derivált formák"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9e6a72f531eb3056",
+    "type": "split",
+    "children": [
+      {
+        "id": "b325b1db38fd26dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2c948395f1f5d5a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5d48b9caf4ec61e1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "02fac4858639a307",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fea7d81fab25bf13",
+    "type": "split",
+    "children": [
+      {
+        "id": "7017d83d7243b552",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfb647e0a9093c38",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Rekurzív sorozatok.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Rekurzív sorozatok"
+            }
+          },
+          {
+            "id": "5352ebe62fd96563",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Rekurzív sorozatok.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Rekurzív sorozatok"
+            }
+          },
+          {
+            "id": "dfaaa3afba6d756a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "68be5d423c300ad9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "52fed894303517b7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Rekurzív sorozatok.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Rekurzív sorozatok"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "7c0133c19dec5d1b",
+  "lastOpenFiles": [
+    "Deriválás műveletek eredményei.md",
+    "Gyakori derivált formák.md",
+    "Összetett függvények deriválása (f kör g).md",
+    "Deriválás.md",
+    "Implicit függvény deriválása.md",
+    "Képek/Pasted image 20260711085504.png",
+    "Hiperbolikus függvények deriváltjai és inverzei.md",
+    "Képek/Pasted image 20260711085407.png",
+    "Képek/Pasted image 20260711083901.png",
+    "Képek/Pasted image 20260711083559.png",
+    "Képek/Pasted image 20260711082902.png",
+    "Képek/Pasted image 20260711081100.png",
+    "Rekurzív sorozatok.md",
+    "Képek/Pasted image 20260710180614.png",
+    "Képek/Pasted image 20260710180000.png",
+    "Képek/Pasted image 20260710175753.png",
+    "Rendőr elv.md",
+    "Képek/Pasted image 20260710090743.png",
+    "Határértékszámítás.md",
+    "Inverz függvényé alakítás.md",
+    "Értelmezési tartomány kitalállása.md",
+    "Welcome.md",
+    "Képek"
+  ]
+}

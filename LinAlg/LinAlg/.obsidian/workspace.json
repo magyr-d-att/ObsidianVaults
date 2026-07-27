@@ -1,0 +1,315 @@
+{
+  "main": {
+    "id": "6d5d2fb55931340e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1f7ca519e84fa14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "870e7f9589dcd4fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Determináns.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Determináns"
+            }
+          },
+          {
+            "id": "03463b74933e4aca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ortogonális rendszer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ortogonális rendszer"
+            }
+          },
+          {
+            "id": "843b9a5e35ea362a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "QR-felbontás.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "QR-felbontás"
+            }
+          },
+          {
+            "id": "ebe706baf035711d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Legkisebb négyzetek módszere.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Legkisebb négyzetek módszere"
+            }
+          },
+          {
+            "id": "c5fc6d0c97935e61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exponenciális alak.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Exponenciális alak"
+            }
+          },
+          {
+            "id": "410dd88802726058",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exponenciális alak.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Exponenciális alak"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a1d083e224cf25e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce1603a380e53e16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5892d4f05774a76e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c72cc0b73267a64e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "eacf1be98f56bfaa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7f7110a94251d0c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5117464f5a31eb77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe4f7b265c394816",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Vektorműveletek/Vektoriális szorzat.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Vektoriális szorzat"
+            }
+          },
+          {
+            "id": "3ab01f4d932c3f8b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Vektorműveletek/Vektoriális szorzat.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Vektoriális szorzat"
+            }
+          },
+          {
+            "id": "c5991058a2de9cf4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "90e5cb657758ec09",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "23a40982b261dfc6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Vektorműveletek/Vektoriális szorzat.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Vektoriális szorzat"
+            }
+          },
+          {
+            "id": "98af6bd9be7daff2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "c5fc6d0c97935e61",
+  "lastOpenFiles": [
+    "Trigonometrikus alak.md",
+    "Exponenciális alak.md",
+    "Képek/Pasted image 20260703163528.png",
+    "Képek/Pasted image 20260703162848.png",
+    "Képek/Pasted image 20260703160553.png",
+    "Legkisebb négyzetek módszere.md",
+    "Képek/Pasted image 20260628121340.png",
+    "QR-felbontás.md",
+    "Képek/Pasted image 20260628115857.png",
+    "Givens-forgatás.md",
+    "Képek/Pasted image 20260628085752.png",
+    "Képek/Pasted image 20260628085711.png",
+    "Ortogonális rendszer.md",
+    "Cholesky-felbontás.md",
+    "Képek/Pasted image 20260628085238.png",
+    "Determináns.md",
+    "Determináns kifejtése.md",
+    "LU felbontás.md",
+    "Képek/Pasted image 20260628083251.png",
+    "Képek/Pasted image 20260628083228.png",
+    "Inverz Mátrix.md",
+    "Permutációs mátrix.md",
+    "Sarokfőminor.md",
+    "Hasznosítás/Gauss-elimináció.md",
+    "Gram-Schmidt Ortogonalizáló.md",
+    "Képletek/mateking-linearis_algebra-kepletgyujtemeny.pdf",
+    "Képletek",
+    "mateking-linearis_algebra-kepletgyujtemeny.pdf",
+    "Ortogonális mátrix.md",
+    "Fourier-együtthatók.md",
+    "Gram mátrix.md",
+    "Ortonormált rendszer.md",
+    "Generátor-rendszer.md",
+    "Vektor.md",
+    "Vektornorma.md",
+    "Projekció mátrixa.md",
+    "Pszeudoinverz.md",
+    "Tengelyes tükrözés mátrixa (Householder).md",
+    "Képek",
+    "Vektorműveletek",
+    "Hasznosítás",
+    "Excalidraw",
+    "Mátrixműveletek"
+  ]
+}
