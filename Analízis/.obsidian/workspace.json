@@ -231,13 +231,23 @@
               "icon": "lucide-list",
               "title": "Outline of Rekurzív sorozatok"
             }
+          },
+          {
+            "id": "f9af30a566922c82",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -247,10 +257,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7c0133c19dec5d1b",
+  "active": "a2c948395f1f5d5a",
   "lastOpenFiles": [
     "Deriválás műveletek eredményei.md",
     "Gyakori derivált formák.md",
