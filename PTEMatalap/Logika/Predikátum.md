@@ -1,0 +1,1 @@
+Olyan [[Kijelentés]] amely egy vagy több változótól függ, és ezek minden megengedett rögzített értékeire egy kijelentést adnak.

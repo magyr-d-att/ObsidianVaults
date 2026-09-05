@@ -1,0 +1,1 @@
+A halmaz bizonyos jól meghatározott dolgok elemeinek összessége.

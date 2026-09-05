@@ -1,0 +1,2 @@
+Minden, bármely: ∀
+Van olyan: ∃

@@ -1,0 +1,1 @@
+Jól meghatározott dologra vonatkozó mondat, mely vagy igaz, vagy hamis, de nem mindkettő egyszerre.
