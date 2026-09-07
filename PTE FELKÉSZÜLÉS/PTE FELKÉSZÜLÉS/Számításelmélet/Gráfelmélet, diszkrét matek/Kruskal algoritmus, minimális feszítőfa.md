@@ -1,0 +1,4 @@
+- Keresd meg a legkisebb súlyú élt.
+- Lépésenként adj hozzá egy még ki nem választott élt a következő legkisebb súlyuakból. 
+- Ha kör keletkezik miután ki lett választva, töröld és tovább
+- 
