@@ -41,32 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Számításelmélet/Gráfelmélet, diszkrét matek/Hamilton kör, Hamilton út.md",
+                "file": "Számításelmélet/Gráfelmélet, diszkrét matek/Páros gráfok.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hamilton kör, Hamilton út"
+              "title": "Páros gráfok"
             }
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "986a4106394fe250",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f2cee02841228b05",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -247,27 +231,34 @@
   },
   "active": "f76cd879c2e0e83d",
   "lastOpenFiles": [
-    "Számításelmélet/Gráfelmélet, diszkrét matek/Eredeti gráf visszaadása DFS BFS után.md",
+    "Számításelmélet/Gráfelmélet, diszkrét matek/Független ponthalmaz, lefogó ponthalmaz (Gráfparaméterek).md",
+    "Számításelmélet/Gráfelmélet, diszkrét matek/Páros gráfok.md",
+    "Képek/Pasted image 20260907154952.png",
+    "Képek/Pasted image 20260907154139.png",
+    "Képek/Pasted image 20260907153959.png",
+    "Számításelmélet/Gráfelmélet, diszkrét matek/Mycielski-konstrukció.md",
+    "Számításelmélet/Gráfelmélet, diszkrét matek/Klikk, Kromatikus szám.md",
+    "Számításelmélet/Gráfelmélet, diszkrét matek/Intervallumgráf.md",
+    "Képek/Pasted image 20260907130321.png",
+    "Képek/Pasted image 20260907124539.png",
+    "Képek/Pasted image 20260907124505.png",
+    "Képek/Pasted image 20260907123212.png",
+    "Számításelmélet/Gráfelmélet, diszkrét matek/Mohó színezési algoritmus.md",
+    "Számításelmélet/Gráfelmélet, diszkrét matek/Feszített részgráf, perfekt gráf.md",
+    "Képek/Pasted image 20260907122050.png",
     "Számításelmélet/Gráfelmélet, diszkrét matek/Hamilton kör, Hamilton út.md",
+    "Képek/Pasted image 20260907115315.png",
+    "Számításelmélet/Gráfelmélet, diszkrét matek/Eredeti gráf visszaadása DFS BFS után.md",
     "Képek/Pasted image 20260907114027.png",
     "Számításelmélet/Gráfelmélet, diszkrét matek/DFS.md",
     "Számításelmélet/Gráfelmélet, diszkrét matek/BFS.md",
     "Számításelmélet/Gráfelmélet, diszkrét matek/Euler Poliéder tétel, szükséges feltételek.md",
     "Számításelmélet/Gráfelmélet, diszkrét matek/Kruskal algoritmus, minimális feszítőfa.md",
     "Számításelmélet/Gráfelmélet, diszkrét matek/Izomorfia vizsgálata.md",
-    "Képek/Pasted image 20260907105459.png",
-    "Képek/Pasted image 20260907104948.png",
-    "Képek/Pasted image 20260907104609.png",
-    "Képek/Pasted image 20260907104148.png",
     "Számításelmélet/Gráfelmélet, diszkrét matek/Síkbarajzolhatóság.md",
-    "Képek/Pasted image 20260907103410.png",
-    "Képek/Pasted image 20260907102125.png",
-    "Képek/Pasted image 20260907101754.png",
     "Számításelmélet/Gráfelmélet, diszkrét matek/Topológiai ekvivalencia.md",
     "Tanulásmódszertan/Tanulásmódszertan.pdf",
-    "Képek/Pasted image 20260907100926.png",
     "Képek",
-    "Képek/Pasted image 20260907101510.png",
     "Számításelmélet/Gráfelmélet, diszkrét matek/Gráf izomorfia.md",
     "Számításelmélet/Gráfelmélet, diszkrét matek/Gráfhoz tartozó fogalmak.md",
     "Számításelmélet/Számításelmélet.md",
@@ -281,16 +272,10 @@
     "Relációs Adatbázisok/Relációs Adatbázisok.md",
     "Relációs Adatbázisok/Relációsadatbázisok.pdf",
     "Prog 1/Prog 1.md",
-    "Matematikai Logika/Matematikai Logika.md",
-    "Matalapok/Matalapok.md",
-    "Elemi Programozás/Elemi Programozás.md",
-    "Elemi Lineáris Algebra/Felkészülés.md",
     "Számítógépes grafika/Számítógépesgrafika.pdf",
     "Szar/Számítógéparchitechtúrák.pdf",
     "Elemi Lineáris Algebra/Elemilineárisalgebra.pdf",
     "Elemi Programozás/Elemiprogramozás.pdf",
-    "Matalapok/Matematikaialapozókurzus.pdf",
-    "Untitled 1.md",
-    "Elemi Lineáris Algebra/Elemi Lineáris Algebra.md"
+    "Matalapok/Matematikaialapozókurzus.pdf"
   ]
 }
