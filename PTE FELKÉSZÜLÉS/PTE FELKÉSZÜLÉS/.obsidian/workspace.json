@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Számításelmélet/Gráfelmélet, diszkrét matek/Páros gráfok, párosítás.md",
+                "file": "Számításelmélet/Gráfelmélet, diszkrét matek/Élösszefüggés, pontösszefüggés, Menger-tételek.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Páros gráfok, párosítás"
+              "title": "Élösszefüggés, pontösszefüggés, Menger-tételek"
             }
           }
         ],
@@ -231,8 +231,10 @@
   },
   "active": "f76cd879c2e0e83d",
   "lastOpenFiles": [
-    "Számításelmélet/Gráfelmélet, diszkrét matek/Mohó színezési algoritmus.md",
+    "Képek/Pasted image 20260908054702.png",
     "Számításelmélet/Gráfelmélet, diszkrét matek/Páros gráfok, párosítás.md",
+    "Számításelmélet/Gráfelmélet, diszkrét matek/Élösszefüggés, pontösszefüggés, Menger-tételek.md",
+    "Számításelmélet/Gráfelmélet, diszkrét matek/Mohó színezési algoritmus.md",
     "Számításelmélet/Gráfelmélet, diszkrét matek/Floyd algoritmus.md",
     "Képek/Pasted image 20260908040531.png",
     "Képek/Pasted image 20260908040148.png",
@@ -267,7 +269,6 @@
     "Képek",
     "Számításelmélet/Gráfelmélet, diszkrét matek/Gráf izomorfia.md",
     "Számításelmélet/Gráfelmélet, diszkrét matek/Gráfhoz tartozó fogalmak.md",
-    "Számításelmélet/Számításelmélet.md",
     "Számításelmélet/Gráfelmélet, diszkrét matek",
     "Számításelmélet/Számításelmélet,számítástudományialapismeretek.pdf",
     "Relációs Adatbázisok/Relációsadatbázisok.pdf",

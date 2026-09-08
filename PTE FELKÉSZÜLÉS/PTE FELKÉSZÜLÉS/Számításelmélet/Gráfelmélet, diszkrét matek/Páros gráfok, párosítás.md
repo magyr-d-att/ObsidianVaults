@@ -25,3 +25,6 @@ Egy gráfban csak akkor létezik teljes párosítás, ha bárhogy elhagyott pont
 Legyen N(X) egy olyan halmaz ami tartalmazza A olyan szomszédait, amelyek B-ben vannak.
 
 Kizárólag akkor van A-t fedő párosítása egy gráfnak, ha X elemszáma <= N(X) Elemszáma.
+
+## Frobenius-tétel:
+Ha A és B-ben van ugyanolyan mennyiségű csúcs van, és van A-t lefedő párosítás, akkor az B-t is fedi.
