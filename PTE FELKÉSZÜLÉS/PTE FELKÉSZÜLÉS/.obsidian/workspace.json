@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Valszám/Valszám/Alapvető valószínűségszámítás.md",
+                "file": "Valszám/Valszám/Valószínűség tulajdonságai.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alapvető valószínűségszámítás"
+              "title": "Valószínűség tulajdonságai"
             }
           }
         ],
@@ -231,10 +231,15 @@
   },
   "active": "f76cd879c2e0e83d",
   "lastOpenFiles": [
+    "Valszám/Valszám/Diszjunkt és kizáró események !.md",
+    "Valszám/Valszám/Valószínűség tulajdonságai.md",
+    "Valszám/Valszám/Valószínűségi tér axiómák.md",
+    "Valszám/Valszám/Eseménytér.md",
+    "Valszám/Valszám/Alapvető valószínűségszámítás.md",
+    "Valszám/Valszám/Mintatér típusai.md",
     "Képek/Pasted image 20260908123754.png",
     "Képek/Pasted image 20260908123751.png",
     "Számításelmélet/Gráfelmélet, diszkrét matek/Élösszefüggés, pontösszefüggés, Menger-tételek.md",
-    "Valszám/Valszám/Alapvető valószínűségszámítás.md",
     "Valszám/Valszám",
     "Képek/Pasted image 20260908054702.png",
     "Számításelmélet/Gráfelmélet, diszkrét matek/Páros gráfok, párosítás.md",
@@ -252,7 +257,6 @@
     "Képek/Pasted image 20260908030759.png",
     "Számításelmélet/Gráfelmélet, diszkrét matek/Hálózati folyamok.md",
     "Képek/Pasted image 20260908022641.png",
-    "Képek/Pasted image 20260908022352.png",
     "Számításelmélet/Gráfelmélet, diszkrét matek/Független ponthalmaz, lefogó ponthalmaz (Gráfparaméterek).md",
     "Számításelmélet/Gráfelmélet, diszkrét matek/Mycielski-konstrukció.md",
     "Számításelmélet/Gráfelmélet, diszkrét matek/Klikk, Kromatikus szám.md",
@@ -264,12 +268,8 @@
     "Számításelmélet/Gráfelmélet, diszkrét matek/BFS.md",
     "Számításelmélet/Gráfelmélet, diszkrét matek/Euler Poliéder tétel, szükséges feltételek.md",
     "Számításelmélet/Gráfelmélet, diszkrét matek/Kruskal algoritmus, minimális feszítőfa.md",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/Izomorfia vizsgálata.md",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/Síkbarajzolhatóság.md",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/Topológiai ekvivalencia.md",
     "Tanulásmódszertan/Tanulásmódszertan.pdf",
     "Képek",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/Gráf izomorfia.md",
     "Számításelmélet/Gráfelmélet, diszkrét matek",
     "Számításelmélet/Számításelmélet,számítástudományialapismeretek.pdf",
     "Relációs Adatbázisok/Relációsadatbázisok.pdf",
