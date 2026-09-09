@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Valszám/Valszám/Valószínűség tulajdonságai.md",
+                "file": "Matalapok/Matalapok.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Valószínűség tulajdonságai"
+              "title": "Matalapok"
             }
           }
         ],
@@ -231,8 +231,22 @@
   },
   "active": "f76cd879c2e0e83d",
   "lastOpenFiles": [
-    "Valszám/Valszám/Diszjunkt és kizáró események !.md",
+    "Számítógép Hálózatok/felkészülés/Internetworks.md",
+    "Számítógép Hálózatok/felkészülés/Network.md",
+    "Számítógép Hálózatok/felkészülés/WAN.md",
+    "Képek/Pasted image 20260909110812.png",
+    "Képek/Pasted image 20260909110135.png",
+    "Számítógép Hálózatok/felkészülés/MAN.md",
+    "Számítógép Hálózatok/felkészülés/Static and Dynamic design.md",
+    "Számítógép Hálózatok/felkészülés/LAN.md",
+    "Számítógép Hálózatok/felkészülés/PAN.md",
+    "Számítógép Hálózatok/Számítógéphálózatok.pdf",
+    "Számítógép Hálózatok/felkészülés",
+    "Számítógép Hálózatok/computer_networks_-_a_tanenbaum_-_5th_edition.pdf",
+    "Szar/Számítógép architektúrák.md",
     "Valszám/Valszám/Valószínűség tulajdonságai.md",
+    "Számítógép Hálózatok",
+    "Valszám/Valszám/Diszjunkt és kizáró események !.md",
     "Valszám/Valszám/Valószínűségi tér axiómák.md",
     "Valszám/Valszám/Eseménytér.md",
     "Valszám/Valszám/Alapvető valószínűségszámítás.md",
@@ -254,28 +268,14 @@
     "Számításelmélet/Gráfelmélet, diszkrét matek/Dijkstra.md",
     "Képek/Pasted image 20260908032549.png",
     "Számításelmélet/Gráfelmélet, diszkrét matek/CPM.md",
-    "Képek/Pasted image 20260908030759.png",
     "Számításelmélet/Gráfelmélet, diszkrét matek/Hálózati folyamok.md",
-    "Képek/Pasted image 20260908022641.png",
     "Számításelmélet/Gráfelmélet, diszkrét matek/Független ponthalmaz, lefogó ponthalmaz (Gráfparaméterek).md",
     "Számításelmélet/Gráfelmélet, diszkrét matek/Mycielski-konstrukció.md",
     "Számításelmélet/Gráfelmélet, diszkrét matek/Klikk, Kromatikus szám.md",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/Intervallumgráf.md",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/Feszített részgráf, perfekt gráf.md",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/Hamilton kör, Hamilton út.md",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/Eredeti gráf visszaadása DFS BFS után.md",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/DFS.md",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/BFS.md",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/Euler Poliéder tétel, szükséges feltételek.md",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/Kruskal algoritmus, minimális feszítőfa.md",
     "Tanulásmódszertan/Tanulásmódszertan.pdf",
     "Képek",
     "Számításelmélet/Gráfelmélet, diszkrét matek",
     "Számításelmélet/Számításelmélet,számítástudományialapismeretek.pdf",
-    "Relációs Adatbázisok/Relációsadatbázisok.pdf",
-    "Számítógépes grafika/Számítógépesgrafika.pdf",
-    "Szar/Számítógéparchitechtúrák.pdf",
-    "Elemi Lineáris Algebra/Elemilineárisalgebra.pdf",
-    "Elemi Programozás/Elemiprogramozás.pdf"
+    "Relációs Adatbázisok/Relációsadatbázisok.pdf"
   ]
 }
