@@ -1,0 +1,1 @@
+Machine that connects two or more networks, and provides translation for both hardware and software.

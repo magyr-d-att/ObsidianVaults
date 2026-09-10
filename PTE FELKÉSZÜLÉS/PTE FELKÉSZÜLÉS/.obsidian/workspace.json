@@ -39,18 +39,28 @@
             "id": "f76cd879c2e0e83d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Matalapok/Matalapok.md",
-                "mode": "source",
-                "source": false
+                "file": "Matalapok/Matematikaialapozókurzus.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Matalapok"
+              "icon": "lucide-file-text",
+              "title": "Matematikaialapozókurzus"
+            }
+          },
+          {
+            "id": "f8853cc24e3a6b04",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.7"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -229,8 +239,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f76cd879c2e0e83d",
+  "active": "f8853cc24e3a6b04",
   "lastOpenFiles": [
+    "Számítógép Hálózatok/felkészülés/Gateway.md",
+    "Számítógép Hálózatok/felkészülés/Subnets.md",
+    "Képek/Pasted image 20260909144641.png",
+    "Képek/Pasted image 20260909144611.png",
+    "Matalapok/Matalapok.md",
     "Számítógép Hálózatok/felkészülés/Internetworks.md",
     "Számítógép Hálózatok/felkészülés/Network.md",
     "Számítógép Hálózatok/felkészülés/WAN.md",
@@ -264,14 +279,9 @@
     "Számításelmélet/Gráfelmélet, diszkrét matek/BFS-fa.md",
     "Képek/Pasted image 20260908035752.png",
     "Számításelmélet/Gráfelmélet, diszkrét matek/DFS-fa.md",
-    "Képek/Pasted image 20260908035626.png",
     "Számításelmélet/Gráfelmélet, diszkrét matek/Dijkstra.md",
-    "Képek/Pasted image 20260908032549.png",
     "Számításelmélet/Gráfelmélet, diszkrét matek/CPM.md",
     "Számításelmélet/Gráfelmélet, diszkrét matek/Hálózati folyamok.md",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/Független ponthalmaz, lefogó ponthalmaz (Gráfparaméterek).md",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/Mycielski-konstrukció.md",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/Klikk, Kromatikus szám.md",
     "Tanulásmódszertan/Tanulásmódszertan.pdf",
     "Képek",
     "Számításelmélet/Gráfelmélet, diszkrét matek",
