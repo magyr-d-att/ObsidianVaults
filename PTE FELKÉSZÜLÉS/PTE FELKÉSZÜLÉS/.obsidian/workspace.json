@@ -6,61 +6,42 @@
       {
         "id": "a17f7b1aa3945d42",
         "type": "tabs",
+        "dimension": 25.380710659898476,
         "children": [
           {
-            "id": "f87fda4b04c9af57",
+            "id": "f173ef235034e748",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elemi Lineáris Algebra/Elemi Lineáris Algebra.md",
+                "file": "Számítógép Hálózatok/Important to review/TCP-IP Reference Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elemi Lineáris Algebra"
+              "title": "TCP-IP Reference Model"
             }
-          },
-          {
-            "id": "1962eb1d81effc21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Elemi Lineáris Algebra/Elemi Lineáris Algebra.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Elemi Lineáris Algebra"
-            }
-          },
-          {
-            "id": "f76cd879c2e0e83d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Matalapok/Matematikaialapozókurzus.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Matematikaialapozókurzus"
-            }
-          },
+          }
+        ]
+      },
+      {
+        "id": "51f8ed8efc9fd10a",
+        "type": "tabs",
+        "dimension": 74.61928934010153,
+        "children": [
           {
             "id": "f8853cc24e3a6b04",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "pdf",
               "state": {
-                "currentVersion": "1.13.7"
+                "file": "Számítógép Hálózatok/computer_networks_-_a_tanenbaum_-_5th_edition.pdf"
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.7"
+              "icon": "lucide-file-text",
+              "title": "computer_networks_-_a_tanenbaum_-_5th_edition"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +76,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -239,53 +220,52 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f8853cc24e3a6b04",
+  "active": "f173ef235034e748",
   "lastOpenFiles": [
-    "Számítógép Hálózatok/felkészülés/Gateway.md",
+    "Számítógép Hálózatok/felkészülés/Byte Streams.md",
+    "Számítógép Hálózatok/Important to review/TCP-IP Reference Model.md",
+    "Számítógép Hálózatok/computer_networks_-_a_tanenbaum_-_5th_edition.pdf",
+    "Képek/Pasted image 20260911123300.png",
     "Számítógép Hálózatok/felkészülés/Subnets.md",
+    "Számítógép Hálózatok/felkészülés/Protocols and layer communication.md",
+    "Számítógép Hálózatok/felkészülés/PAN.md",
+    "Számítógép Hálózatok/felkészülés/Network.md",
+    "Számítógép Hálózatok/Important to review/OSI Reference Model.md",
+    "Számítógép Hálózatok/Important to review",
+    "Számítógép Hálózatok/felkészülés/Design issues.md",
+    "SAP Learning/SAP Learning.md",
+    "Számítógép Hálózatok/felkészülés/Untitled 3.md",
+    "SAP Learning/Készülés",
+    "Képek/Pasted image 20260910151107.png",
+    "Számítógép Hálózatok/felkészülés/Service.md",
+    "Számítógép Hálózatok/felkészülés/Primitive.md",
+    "Számítógép Hálózatok/felkészülés/Untitled 2.md",
+    "Képek/Pasted image 20260910145458.png",
+    "Számítógép Hálózatok/felkészülés/Connection oriented vs connectionless.md",
+    "Számítógép Hálózatok/felkészülés/Untitled 1.md",
+    "Képek/Pasted image 20260910144743.png",
+    "Számítógép Hálózatok/felkészülés/Datagram.md",
+    "Képek/Pasted image 20260910122645.png",
+    "Számítógép Hálózatok/felkészülés/Interface.md",
+    "Számítógép Hálózatok/felkészülés/Gateway.md",
+    "Elemi Lineáris Algebra/Elemi Lineáris Algebra.md",
     "Képek/Pasted image 20260909144641.png",
     "Képek/Pasted image 20260909144611.png",
     "Matalapok/Matalapok.md",
     "Számítógép Hálózatok/felkészülés/Internetworks.md",
-    "Számítógép Hálózatok/felkészülés/Network.md",
     "Számítógép Hálózatok/felkészülés/WAN.md",
     "Képek/Pasted image 20260909110812.png",
     "Képek/Pasted image 20260909110135.png",
     "Számítógép Hálózatok/felkészülés/MAN.md",
     "Számítógép Hálózatok/felkészülés/Static and Dynamic design.md",
     "Számítógép Hálózatok/felkészülés/LAN.md",
-    "Számítógép Hálózatok/felkészülés/PAN.md",
     "Számítógép Hálózatok/Számítógéphálózatok.pdf",
     "Számítógép Hálózatok/felkészülés",
-    "Számítógép Hálózatok/computer_networks_-_a_tanenbaum_-_5th_edition.pdf",
-    "Szar/Számítógép architektúrák.md",
-    "Valszám/Valszám/Valószínűség tulajdonságai.md",
     "Számítógép Hálózatok",
-    "Valszám/Valszám/Diszjunkt és kizáró események !.md",
-    "Valszám/Valszám/Valószínűségi tér axiómák.md",
-    "Valszám/Valszám/Eseménytér.md",
-    "Valszám/Valszám/Alapvető valószínűségszámítás.md",
-    "Valszám/Valszám/Mintatér típusai.md",
     "Képek/Pasted image 20260908123754.png",
-    "Képek/Pasted image 20260908123751.png",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/Élösszefüggés, pontösszefüggés, Menger-tételek.md",
     "Valszám/Valszám",
-    "Képek/Pasted image 20260908054702.png",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/Páros gráfok, párosítás.md",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/Mohó színezési algoritmus.md",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/Floyd algoritmus.md",
-    "Képek/Pasted image 20260908040531.png",
-    "Képek/Pasted image 20260908040148.png",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/BFS-fa.md",
-    "Képek/Pasted image 20260908035752.png",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/DFS-fa.md",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/Dijkstra.md",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/CPM.md",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/Hálózati folyamok.md",
     "Tanulásmódszertan/Tanulásmódszertan.pdf",
     "Képek",
-    "Számításelmélet/Gráfelmélet, diszkrét matek",
-    "Számításelmélet/Számításelmélet,számítástudományialapismeretek.pdf",
-    "Relációs Adatbázisok/Relációsadatbázisok.pdf"
+    "Számításelmélet/Gráfelmélet, diszkrét matek"
   ]
 }
