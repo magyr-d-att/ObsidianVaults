@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Számításelmélet/Gráfelmélet, diszkrét matek/Élösszefüggés, pontösszefüggés, Menger-tételek.md",
+                "file": "Elemi Lineáris Algebra/Elemi Lineáris Algebra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Élösszefüggés, pontösszefüggés, Menger-tételek"
+              "title": "Elemi Lineáris Algebra"
             }
           }
         ],
@@ -231,9 +231,15 @@
   },
   "active": "f76cd879c2e0e83d",
   "lastOpenFiles": [
+    "Elemi Lineáris Algebra/Elemilineárisalgebra.pdf",
+    "Elemi Lineáris Algebra/Elemi Lineáris Algebra.md",
+    "Elemi Lineáris Algebra/Képek/Pasted image 20260904153523.png",
+    "Elemi Lineáris Algebra/Képek/Pasted image 20260904153511.png",
+    "Számításelmélet/Gráfelmélet, diszkrét matek/Mycielski-konstrukció.md",
+    "Számításelmélet/Gráfelmélet, diszkrét matek/Dijkstra.md",
+    "Számításelmélet/Gráfelmélet, diszkrét matek/Élösszefüggés, pontösszefüggés, Menger-tételek.md",
     "Képek/Pasted image 20260908054702.png",
     "Számításelmélet/Gráfelmélet, diszkrét matek/Páros gráfok, párosítás.md",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/Élösszefüggés, pontösszefüggés, Menger-tételek.md",
     "Számításelmélet/Gráfelmélet, diszkrét matek/Mohó színezési algoritmus.md",
     "Számításelmélet/Gráfelmélet, diszkrét matek/Floyd algoritmus.md",
     "Képek/Pasted image 20260908040531.png",
@@ -242,17 +248,12 @@
     "Képek/Pasted image 20260908035752.png",
     "Számításelmélet/Gráfelmélet, diszkrét matek/DFS-fa.md",
     "Képek/Pasted image 20260908035626.png",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/Dijkstra.md",
     "Képek/Pasted image 20260908032549.png",
     "Számításelmélet/Gráfelmélet, diszkrét matek/CPM.md",
     "Képek/Pasted image 20260908030759.png",
     "Számításelmélet/Gráfelmélet, diszkrét matek/Hálózati folyamok.md",
     "Képek/Pasted image 20260908022641.png",
-    "Képek/Pasted image 20260908022352.png",
     "Számításelmélet/Gráfelmélet, diszkrét matek/Független ponthalmaz, lefogó ponthalmaz (Gráfparaméterek).md",
-    "Képek/Pasted image 20260907154952.png",
-    "Képek/Pasted image 20260907154139.png",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/Mycielski-konstrukció.md",
     "Számításelmélet/Gráfelmélet, diszkrét matek/Klikk, Kromatikus szám.md",
     "Számításelmélet/Gráfelmélet, diszkrét matek/Intervallumgráf.md",
     "Számításelmélet/Gráfelmélet, diszkrét matek/Feszített részgráf, perfekt gráf.md",
@@ -268,13 +269,11 @@
     "Tanulásmódszertan/Tanulásmódszertan.pdf",
     "Képek",
     "Számításelmélet/Gráfelmélet, diszkrét matek/Gráf izomorfia.md",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/Gráfhoz tartozó fogalmak.md",
     "Számításelmélet/Gráfelmélet, diszkrét matek",
     "Számításelmélet/Számításelmélet,számítástudományialapismeretek.pdf",
     "Relációs Adatbázisok/Relációsadatbázisok.pdf",
     "Számítógépes grafika/Számítógépesgrafika.pdf",
     "Szar/Számítógéparchitechtúrák.pdf",
-    "Elemi Lineáris Algebra/Elemilineárisalgebra.pdf",
     "Elemi Programozás/Elemiprogramozás.pdf",
     "Matalapok/Matematikaialapozókurzus.pdf"
   ]
