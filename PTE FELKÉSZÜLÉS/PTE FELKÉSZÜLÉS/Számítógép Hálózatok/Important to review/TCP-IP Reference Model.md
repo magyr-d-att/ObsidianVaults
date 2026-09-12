@@ -15,6 +15,12 @@ Transport Layer:
 Two end to end protocols:
 
 - TCP : Transmission Control Protocol
-allows a byte stream to be delivered without error. Segments the byte stream into discrete messages
+allows a byte stream to be delivered without error. Segments the byte stream into discrete messages. On the receiving end reconstructs it into the output stream. Also handles flow control.
 
 - UDP: User Datagram protocol
+unreliable, connectionless protocol for those who want to provide their own flow control or sequencing.
+
+Application Layer:
+instead of separate session or presentation layers, apps just include whatever functions they want for these.
+Contains higher level protocols like FTP, DNS, SMTP
+

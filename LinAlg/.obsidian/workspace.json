@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LinAlg/Exponenciális alak.md",
+                "file": "LinAlg/Excalidraw/Mátrixszorzás Menete.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exponenciális alak"
+              "title": "Mátrixszorzás Menete"
             }
           }
         ]
@@ -190,6 +190,7 @@
   },
   "active": "83a7b9e62e9d991a",
   "lastOpenFiles": [
+    "LinAlg/Exponenciális alak.md",
     "LinAlg/Kommutatív.md",
     "LinAlg/NxM- es Mátrix.md"
   ]
