@@ -25,32 +25,32 @@
             "id": "1962eb1d81effc21",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Elemi Lineáris Algebra/Elemi Lineáris Algebra.md",
-                "mode": "source",
-                "source": false
+                "aFile": "PTE FELKÉSZÜLÉS/PTE FELKÉSZÜLÉS/conflict-files-obsidian-git.md",
+                "bFile": "PTE FELKÉSZÜLÉS/PTE FELKÉSZÜLÉS/conflict-files-obsidian-git.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Elemi Lineáris Algebra"
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
             }
           },
           {
-            "id": "f76cd879c2e0e83d",
+            "id": "05366e301e237e55",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Elemi Lineáris Algebra/Elemi Lineáris Algebra.md",
-                "mode": "source",
-                "source": false
+                "aFile": "PTE FELKÉSZÜLÉS/PTE FELKÉSZÜLÉS/Elemi Lineáris Algebra/Elemi Lineáris Algebra.md",
+                "bFile": "PTE FELKÉSZÜLÉS/PTE FELKÉSZÜLÉS/Elemi Lineáris Algebra/Elemi Lineáris Algebra.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Elemi Lineáris Algebra"
+              "icon": "diff",
+              "title": "Diff: Elemi Lineáris Algebra  (Working Tree)"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,52 +229,53 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f76cd879c2e0e83d",
+  "active": "1962eb1d81effc21",
   "lastOpenFiles": [
-    "Elemi Lineáris Algebra/Elemilineárisalgebra.pdf",
+    "conflict-files-obsidian-git.md",
     "Elemi Lineáris Algebra/Elemi Lineáris Algebra.md",
-    "Elemi Lineáris Algebra/Képek/Pasted image 20260904153523.png",
-    "Elemi Lineáris Algebra/Képek/Pasted image 20260904153511.png",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/Mycielski-konstrukció.md",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/Dijkstra.md",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/Élösszefüggés, pontösszefüggés, Menger-tételek.md",
-    "Képek/Pasted image 20260908054702.png",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/Páros gráfok, párosítás.md",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/Mohó színezési algoritmus.md",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/Floyd algoritmus.md",
-    "Képek/Pasted image 20260908040531.png",
-    "Képek/Pasted image 20260908040148.png",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/BFS-fa.md",
-    "Képek/Pasted image 20260908035752.png",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/DFS-fa.md",
-    "Képek/Pasted image 20260908035626.png",
-    "Képek/Pasted image 20260908032549.png",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/CPM.md",
-    "Képek/Pasted image 20260908030759.png",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/Hálózati folyamok.md",
-    "Képek/Pasted image 20260908022641.png",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/Független ponthalmaz, lefogó ponthalmaz (Gráfparaméterek).md",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/Klikk, Kromatikus szám.md",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/Intervallumgráf.md",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/Feszített részgráf, perfekt gráf.md",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/Hamilton kör, Hamilton út.md",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/Eredeti gráf visszaadása DFS BFS után.md",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/DFS.md",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/BFS.md",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/Euler Poliéder tétel, szükséges feltételek.md",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/Kruskal algoritmus, minimális feszítőfa.md",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/Izomorfia vizsgálata.md",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/Síkbarajzolhatóság.md",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/Topológiai ekvivalencia.md",
+    "Valszám/Valszám/Valószínűségi tér axiómák.md",
+    "Valszám/Valszám/Valószínűség tulajdonságai.md",
+    "Valszám/Valszám/Mintatér típusai.md",
+    "Valszám/Valszám/Eseménytér.md",
+    "Valszám/Valszám/Diszjunkt és kizáró események !.md",
+    "Valszám/Valszám/Alapvető valószínűségszámítás.md",
+    "Valszám/Valszám",
+    "Számítógép Hálózatok/felkészülés/WAN.md",
+    "Számítógép Hálózatok/felkészülés/Untitled.md",
+    "Számítógép Hálózatok/felkészülés/Subnets.md",
+    "Számítógép Hálózatok/felkészülés/Static and Dynamic design.md",
+    "Számítógép Hálózatok/felkészülés/Service.md",
+    "Számítógép Hálózatok/felkészülés/Protocols and layer communication.md",
+    "Számítógép Hálózatok/felkészülés/Protocol.md",
+    "Számítógép Hálózatok/felkészülés/Primitive.md",
+    "Számítógép Hálózatok/felkészülés/PAN.md",
+    "Számítógép Hálózatok/felkészülés/Network.md",
+    "Számítógép Hálózatok/felkészülés/MAN.md",
+    "Számítógép Hálózatok/felkészülés/LAN.md",
+    "Számítógép Hálózatok/felkészülés/Internetworks.md",
+    "Számítógép Hálózatok/felkészülés/Interface.md",
+    "Számítógép Hálózatok/felkészülés/Gateway.md",
+    "Számítógép Hálózatok/felkészülés/Design issues.md",
+    "Számítógép Hálózatok/felkészülés/Datagram.md",
+    "Számítógép Hálózatok/felkészülés/Connection oriented vs connectionless.md",
+    "Számítógép Hálózatok/felkészülés",
+    "Számítógép Hálózatok/computer_networks_-_a_tanenbaum_-_5th_edition.pdf",
+    "Számítógép Hálózatok/Számítógéphálózatok.pdf",
+    "Számítógép Hálózatok/Important to review",
+    "Számítógép Hálózatok",
+    "Képek/Pasted image 20260911123300.png",
+    "Képek/Pasted image 20260910151107.png",
+    "Képek/Pasted image 20260910145458.png",
+    "Képek/Pasted image 20260910144743.png",
+    "Képek/Pasted image 20260910122645.png",
+    "Képek/Pasted image 20260909144641.png",
+    "Képek/Pasted image 20260909110812.png",
+    "Képek/Pasted image 20260909110135.png",
+    "Képek/Pasted image 20260908123754.png",
+    "Képek/Pasted image 20260908123751.png",
+    "Elemi Lineáris Algebra/Elemilineárisalgebra.pdf",
     "Tanulásmódszertan/Tanulásmódszertan.pdf",
     "Képek",
-    "Számításelmélet/Gráfelmélet, diszkrét matek/Gráf izomorfia.md",
-    "Számításelmélet/Gráfelmélet, diszkrét matek",
-    "Számításelmélet/Számításelmélet,számítástudományialapismeretek.pdf",
-    "Relációs Adatbázisok/Relációsadatbázisok.pdf",
-    "Számítógépes grafika/Számítógépesgrafika.pdf",
-    "Szar/Számítógéparchitechtúrák.pdf",
-    "Elemi Programozás/Elemiprogramozás.pdf",
-    "Matalapok/Matematikaialapozókurzus.pdf"
+    "Számításelmélet/Gráfelmélet, diszkrét matek"
   ]
 }

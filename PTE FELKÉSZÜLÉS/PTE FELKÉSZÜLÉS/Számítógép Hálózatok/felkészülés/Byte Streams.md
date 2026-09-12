@@ -1,0 +1,1 @@
+Messages with no borders inbetween.

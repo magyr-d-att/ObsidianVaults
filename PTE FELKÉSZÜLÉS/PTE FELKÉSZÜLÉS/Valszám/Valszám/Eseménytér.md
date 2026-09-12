@@ -1,0 +1,1 @@
+Halmaz, amiben bentvan az összes lehetséges vizsgált kimenetel.

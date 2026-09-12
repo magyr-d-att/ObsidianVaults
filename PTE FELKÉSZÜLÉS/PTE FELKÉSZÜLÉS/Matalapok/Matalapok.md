@@ -4,3 +4,8 @@
 
 ### Trigonometria - 3 session.
 ## Koordinátageometria - 2 session.
+
+
+$$
+
+$$

@@ -14,7 +14,7 @@ G gráfban egy R élhalmaz lefogja az u és v pontok közti utakat, ha R elhagy�
 
 Lefogó ponthalmaz: ^ csak ponthalmaz, T a jelölés.
 
-## Menger-Tételek:
+## Menger-tételek:
 
 Egy irányított gráfban az u -> v élidegen utak max száma megegyezik az u -> v lefogó éleinek minimális számával.
 ^ˇ (Ugyanaz)
