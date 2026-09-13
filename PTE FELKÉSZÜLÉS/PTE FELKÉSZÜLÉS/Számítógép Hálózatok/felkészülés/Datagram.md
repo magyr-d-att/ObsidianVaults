@@ -1,0 +1,1 @@
+Self-contained, independent unit of data, consisting of a header and a payload.
