@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Számítógép Hálózatok/felkészülés/Network.md",
+                "file": "Számítógép Hálózatok/felkészülés/Bandwidth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Network"
+              "title": "Bandwidth"
             }
           }
         ]
@@ -202,15 +202,19 @@
   },
   "active": "f87fda4b04c9af57",
   "lastOpenFiles": [
-    "Számítógép Hálózatok/felkészülés/MAN.md",
+    "Számítógép Hálózatok/felkészülés/Baseband and passband signals.md",
+    "Számítógép Hálózatok/felkészülés/Bandwidth.md",
+    "Számítógép Hálózatok/Important to review/TCP-IP Reference Model.md",
+    "Számítógép Hálózatok/felkészülés/WiFi.md",
+    "Számítógép Hálózatok/felkészülés/Connection oriented vs connectionless.md",
     "Számítógép Hálózatok/felkészülés/Network.md",
+    "Számítógép Hálózatok/felkészülés/MAN.md",
     "Számítógép Hálózatok/felkészülés/LAN.md",
     "Számítógép Hálózatok/felkészülés/Interface.md",
     "Számítógép Hálózatok/felkészülés/Internetworks.md",
     "Számítógép Hálózatok/felkészülés/Gateway.md",
     "Számítógép Hálózatok/felkészülés/Design issues.md",
     "Számítógép Hálózatok/felkészülés/Datagram.md",
-    "Számítógép Hálózatok/felkészülés/Connection oriented vs connectionless.md",
     "Számítógép Hálózatok/felkészülés/Byte Streams.md",
     "Számítógép Hálózatok/computer_networks_-_a_tanenbaum_-_5th_edition.pdf",
     "Szar/Számítógép architektúrák.md",
@@ -226,10 +230,6 @@
     "Számítógép Hálózatok/felkészülés/WAN.md",
     "Számítógép Hálózatok/felkészülés/Untitled.md",
     "Számítógép Hálózatok/felkészülés/Subnets.md",
-    "Számítógép Hálózatok/felkészülés/Static and Dynamic design.md",
-    "Számítógép Hálózatok/felkészülés/Service.md",
-    "Számítógép Hálózatok/felkészülés/Protocols and layer communication.md",
-    "Számítógép Hálózatok/felkészülés/Protocol.md",
     "Számítógép Hálózatok/felkészülés",
     "Számítógép Hálózatok/Számítógéphálózatok.pdf",
     "Számítógép Hálózatok/Important to review",
