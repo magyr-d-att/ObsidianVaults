@@ -1,0 +1,1 @@
+Number of times a signal changes / sec.
