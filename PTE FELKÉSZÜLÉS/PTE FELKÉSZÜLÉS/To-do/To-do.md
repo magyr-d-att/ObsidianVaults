@@ -18,6 +18,9 @@ Előadás
 SQL:
 MSSQL átnézése (fingom nincs mi az :skull:)
 
+SAP:
+5 Badge
+
 
 
 
