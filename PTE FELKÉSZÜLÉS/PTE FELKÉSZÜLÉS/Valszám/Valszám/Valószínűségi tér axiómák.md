@@ -3,5 +3,5 @@ Axiómák:
 -  P (Omega) = 1
 -  Additivitás
 
-[[Diszjunkt és kizáró események !]]
+[[Független és kizáró események]]
 
