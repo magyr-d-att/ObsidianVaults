@@ -11,5 +11,3 @@ SAP Ariba - Core Components
 Szintén Valid: Discrete / repetitive production, Extended Warehouse management.
 
 Sales and distribution és Sales cloud magyarországon.
-
-Gammás email cím.
