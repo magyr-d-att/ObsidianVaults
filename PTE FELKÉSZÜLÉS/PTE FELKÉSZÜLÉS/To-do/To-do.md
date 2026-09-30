@@ -1,11 +1,10 @@
 Matalapok:
-
 Feladatlap heti 5x
 Trigonometrikus egyenletek
 
 Valszám:
-Bayes-tétel
 Binominális eloszlás
+Visszatevéses / nélküli különbség
 
 Tanulásmódszertan:
 Beadandó megbeszélése.
@@ -22,6 +21,11 @@ SAP:
 
 Szar:
 MIT előadás
+
+Operációkutatás:
+2 házi !!!!!
+
+
 
 
 
