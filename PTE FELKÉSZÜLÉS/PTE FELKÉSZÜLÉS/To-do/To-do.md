@@ -5,6 +5,7 @@ Trigonometrikus egyenletek
 Valszám:
 Binominális eloszlás
 Visszatevéses / nélküli különbség
+Eloszlások
 
 Tanulásmódszertan:
 Beadandó megbeszélése.
